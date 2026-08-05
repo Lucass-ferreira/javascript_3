@@ -1,0 +1,2 @@
+(()=>{"use strict";const e=function(e,r){return e*r};(e=>{var r=Object.getOwnPropertyDescriptor(e,"name");(!r||!r.writable&&r.configurable)&&Object.defineProperty(e,"name",{value:"default",configurable:!0})})(e),console.log(e(5,40)),console.log("lucas","ferreira",30,10)})();
+//# sourceMappingURL=bundle.js.map
