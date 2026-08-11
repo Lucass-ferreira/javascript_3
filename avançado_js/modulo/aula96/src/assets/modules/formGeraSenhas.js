@@ -27,5 +27,5 @@ function gera(){
         chkSimbolo.checked
     );
 
-    return senha;
+    return senha || 'Nada selecionada';
 }
